@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="HomePage_PracticeLinkValidation(failed)" parallel="none">
+    <classes>
+      <class name="qaclickacademy.HomePage_LoginValidation">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- qaclickacademy.HomePage_LoginValidation -->
+      <class name="qaclickacademy.HomePage_Validation">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- qaclickacademy.HomePage_Validation -->
+      <class name="qaclickacademy.HomePage_NavBarValidation">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- qaclickacademy.HomePage_NavBarValidation -->
+      <class name="qaclickacademy.HomePage_PracticeLinkValidation">
+        <methods>
+          <include name="practiceLinkValidation"/>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- qaclickacademy.HomePage_PracticeLinkValidation -->
+      <class name="qaclickacademy.HomePage_TitleValidation">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- qaclickacademy.HomePage_TitleValidation -->
+    </classes>
+  </test> <!-- HomePage_PracticeLinkValidation(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="2">
+
+<listeners>
+
+<listener class-name="qaclickacademy.Listeners"/>
+
+<listener class-name="resources.ExtentReporterNG"/>
+
+</listeners>
+
+<test name="PracticeLink_TabValidation">
+    <classes>
+      <class name="qaclickacademy.PracticeLink_TabValidation"/>
+       </classes>
+  </test>
+  
+  <test name="PracticeLink_WindowValidation">
+    <classes>
+      <class name="qaclickacademy.PracticeLink_WindowValidation"/>
+       </classes>
+  </test>
+
+<test name="PracticeLink_CheckboxValidation">
+    <classes>
+      <class name="qaclickacademy.PracticeLink_CheckboxValidation"/>
+       </classes>
+  </test>
+
+<test name="PracticeLink_StaticDrpdwnValidation">
+    <classes>
+      <class name="qaclickacademy.PracticeLink_StaticDrpdwnValidation"/>
+       </classes>
+  </test>
+  
+  <test name="PracticeLink_AutoSuggestiveDrpdwnValidation">
+    <classes>
+      <class name="qaclickacademy.PracticeLink_AutoSuggestiveDrpdwnValidation"/>
+       </classes>
+  </test>
+  
+  <test name="PracticeLink_RadioButtonValidation">
+    <classes>
+      <class name="qaclickacademy.PracticeLink_RadioButtonValidation"/>
+       </classes>
+  </test>
+
+  <test name="HomePage_PracticeLinkValidation">
+    <classes>
+      <class name="qaclickacademy.HomePage_PracticeLinkValidation"/>
+       </classes>
+  </test>
+  <test name="HomePage_TitleValidation">
+    <classes>
+      <class name="qaclickacademy.HomePage_TitleValidation"/>
+      </classes>
+  </test>	
+      <test name="HomePage_NavBarValidation">
+    <classes>
+      <class name="qaclickacademy.HomePage_NavBarValidation"/>
+      </classes>
+  </test>
+      <test name="HomePage_Validation">
+    <classes>
+      <class name="qaclickacademy.HomePage_Validation"/>
+      </classes>
+  </test>
+      <test name="AppTest">
+    <classes>
+      <class name="qaclickacademy.AppTest"/>
+      </classes>
+  </test>
+      <test name="HomePage_LoginValidation">
+    <classes>
+      <class name="qaclickacademy.HomePage_LoginValidation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

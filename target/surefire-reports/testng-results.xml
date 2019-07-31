@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41742" started-at="2019-07-30T09:17:18Z" finished-at="2019-07-30T09:18:00Z">
+    <groups>
+    </groups>
+    <test name="PracticeLink_RadioButtonValidation" duration-ms="9554" started-at="2019-07-30T09:17:18Z" finished-at="2019-07-30T09:17:27Z">
+      <class name="qaclickacademy.PracticeLink_RadioButtonValidation">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:qaclickacademy.PracticeLink_RadioButtonValidation@51081592]" name="initialize" is-config="true" duration-ms="9191" started-at="2019-07-30T14:47:18Z" finished-at="2019-07-30T14:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="radioBtnValidation()[pri:0, instance:qaclickacademy.PracticeLink_RadioButtonValidation@51081592]" name="radioBtnValidation" duration-ms="206" started-at="2019-07-30T14:47:27Z" finished-at="2019-07-30T14:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioBtnValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaclickacademy.PracticeLink_RadioButtonValidation@51081592]" name="tearDown" is-config="true" duration-ms="154" started-at="2019-07-30T14:47:27Z" finished-at="2019-07-30T14:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaclickacademy.PracticeLink_RadioButtonValidation -->
+    </test> <!-- PracticeLink_RadioButtonValidation -->
+    <test name="PracticeLink_AutoSuggestiveDrpdwnValidation" duration-ms="12586" started-at="2019-07-30T09:17:18Z" finished-at="2019-07-30T09:17:30Z">
+      <class name="qaclickacademy.PracticeLink_AutoSuggestiveDrpdwnValidation">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:qaclickacademy.PracticeLink_AutoSuggestiveDrpdwnValidation@7946e1f4]" name="initialize" is-config="true" duration-ms="8928" started-at="2019-07-30T14:47:18Z" finished-at="2019-07-30T14:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="autoSuggestiveDropdownValidation()[pri:0, instance:qaclickacademy.PracticeLink_AutoSuggestiveDrpdwnValidation@7946e1f4]" name="autoSuggestiveDropdownValidation" duration-ms="3418" started-at="2019-07-30T14:47:27Z" finished-at="2019-07-30T14:47:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoSuggestiveDropdownValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaclickacademy.PracticeLink_AutoSuggestiveDrpdwnValidation@7946e1f4]" name="tearDown" is-config="true" duration-ms="230" started-at="2019-07-30T14:47:30Z" finished-at="2019-07-30T14:47:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaclickacademy.PracticeLink_AutoSuggestiveDrpdwnValidation -->
+    </test> <!-- PracticeLink_AutoSuggestiveDrpdwnValidation -->
+    <test name="HomePage_PracticeLinkValidation" duration-ms="9071" started-at="2019-07-30T09:17:27Z" finished-at="2019-07-30T09:17:37Z">
+      <class name="qaclickacademy.HomePage_PracticeLinkValidation">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:qaclickacademy.HomePage_PracticeLinkValidation@5419f379]" name="initialize" is-config="true" duration-ms="6519" started-at="2019-07-30T14:47:27Z" finished-at="2019-07-30T14:47:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="practiceLinkValidation()[pri:0, instance:qaclickacademy.HomePage_PracticeLinkValidation@5419f379]" name="practiceLinkValidation" duration-ms="2245" started-at="2019-07-30T14:47:34Z" finished-at="2019-07-30T14:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceLinkValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaclickacademy.HomePage_PracticeLinkValidation@5419f379]" name="tearDown" is-config="true" duration-ms="307" started-at="2019-07-30T14:47:36Z" finished-at="2019-07-30T14:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaclickacademy.HomePage_PracticeLinkValidation -->
+    </test> <!-- HomePage_PracticeLinkValidation -->
+    <test name="HomePage_TitleValidation" duration-ms="6387" started-at="2019-07-30T09:17:30Z" finished-at="2019-07-30T09:17:37Z">
+      <class name="qaclickacademy.HomePage_TitleValidation">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:qaclickacademy.HomePage_TitleValidation@2a2d45ba]" name="initialize" is-config="true" duration-ms="6011" started-at="2019-07-30T14:47:30Z" finished-at="2019-07-30T14:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="NavBarValidation()[pri:0, instance:qaclickacademy.HomePage_TitleValidation@2a2d45ba]" name="NavBarValidation" duration-ms="71" started-at="2019-07-30T14:47:36Z" finished-at="2019-07-30T14:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavBarValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaclickacademy.HomePage_TitleValidation@2a2d45ba]" name="tearDown" is-config="true" duration-ms="303" started-at="2019-07-30T14:47:37Z" finished-at="2019-07-30T14:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaclickacademy.HomePage_TitleValidation -->
+    </test> <!-- HomePage_TitleValidation -->
+    <test name="HomePage_NavBarValidation" duration-ms="7107" started-at="2019-07-30T09:17:37Z" finished-at="2019-07-30T09:17:44Z">
+      <class name="qaclickacademy.HomePage_NavBarValidation">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:qaclickacademy.HomePage_NavBarValidation@482f8f11]" name="initialize" is-config="true" duration-ms="6680" started-at="2019-07-30T14:47:37Z" finished-at="2019-07-30T14:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="NavBarValidation()[pri:0, instance:qaclickacademy.HomePage_NavBarValidation@482f8f11]" name="NavBarValidation" duration-ms="85" started-at="2019-07-30T14:47:43Z" finished-at="2019-07-30T14:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavBarValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaclickacademy.HomePage_NavBarValidation@482f8f11]" name="tearDown" is-config="true" duration-ms="342" started-at="2019-07-30T14:47:43Z" finished-at="2019-07-30T14:47:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaclickacademy.HomePage_NavBarValidation -->
+    </test> <!-- HomePage_NavBarValidation -->
+    <test name="AppTest" duration-ms="0" started-at="2019-07-30T09:17:44Z" finished-at="2019-07-30T09:17:44Z">
+    </test> <!-- AppTest -->
+    <test name="HomePage_Validation" duration-ms="13330" started-at="2019-07-30T09:17:37Z" finished-at="2019-07-30T09:17:50Z">
+      <class name="qaclickacademy.HomePage_Validation">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:qaclickacademy.HomePage_Validation@39aeed2f]" name="initialize" is-config="true" duration-ms="6532" started-at="2019-07-30T14:47:37Z" finished-at="2019-07-30T14:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="loginClick()[pri:0, instance:qaclickacademy.HomePage_Validation@39aeed2f]" name="loginClick" duration-ms="6516" started-at="2019-07-30T14:47:43Z" finished-at="2019-07-30T14:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginClick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaclickacademy.HomePage_Validation@39aeed2f]" name="tearDown" is-config="true" duration-ms="282" started-at="2019-07-30T14:47:50Z" finished-at="2019-07-30T14:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaclickacademy.HomePage_Validation -->
+    </test> <!-- HomePage_Validation -->
+    <test name="HomePage_LoginValidation" duration-ms="15883" started-at="2019-07-30T09:17:44Z" finished-at="2019-07-30T09:18:00Z">
+      <class name="qaclickacademy.HomePage_LoginValidation">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:qaclickacademy.HomePage_LoginValidation@1bce4f0a]" name="initialize" is-config="true" duration-ms="2990" started-at="2019-07-30T14:47:44Z" finished-at="2019-07-30T14:47:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="loginValidation(java.lang.String, java.lang.String)[pri:0, instance:qaclickacademy.HomePage_LoginValidation@1bce4f0a]" name="loginValidation" duration-ms="8540" started-at="2019-07-30T14:47:47Z" data-provider="getData" finished-at="2019-07-30T14:47:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+        <test-method status="PASS" signature="loginValidation(java.lang.String, java.lang.String)[pri:0, instance:qaclickacademy.HomePage_LoginValidation@1bce4f0a]" name="loginValidation" duration-ms="4203" started-at="2019-07-30T14:47:55Z" data-provider="getData" finished-at="2019-07-30T14:47:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaclickacademy.HomePage_LoginValidation@1bce4f0a]" name="tearDown" is-config="true" duration-ms="145" started-at="2019-07-30T14:47:59Z" finished-at="2019-07-30T14:48:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaclickacademy.HomePage_LoginValidation -->
+    </test> <!-- HomePage_LoginValidation -->
+  </suite> <!-- Suite -->
+</testng-results>
