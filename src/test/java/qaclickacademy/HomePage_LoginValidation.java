@@ -32,6 +32,9 @@ public class HomePage_LoginValidation extends BaseClass{
 		l.getEmail().sendKeys(username);
 		l.getPassword().sendKeys(password);
 		l.loginBtnClick().click();
+		
+		System.out.println("initialize1");
+		System.out.println("initialize2");
 	}
 	
 	@DataProvider
